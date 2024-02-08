@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    color: black;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+button {
+    margin-top: 15vw;
+    background-color: #c7f1f1;
+    font-size: 25px;
+    padding: 15px 32x;
+    margin-right: 40px;
+    margin-left: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+}
